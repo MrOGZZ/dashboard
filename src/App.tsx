@@ -26,7 +26,6 @@ import Edit from "./pages/website/edit";
 function App() {
   return (
     <BrowserRouter>
-        <GitHubBanner />
           <AntdApp>
             <DevtoolsProvider>
               <Refine
